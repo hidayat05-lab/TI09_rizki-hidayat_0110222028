@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <meta charset="utf-8>"
+        <TITLE>cv Rizki hidayat nasution</TITLE>
+    </head>
+    <body>
+        <h1 align="center">CV RIZKI HIDAYAT NASUTION</h1>
+        <div style="background-color:aqua">
+        <hr/>
+        <img src="IMG-20221005-WA0003.jpg" alt="gambar rizki"width="200">
+            
+        <p>perkenalkan nama saya rizki hidayat nasution saya adalah mahasiswa di sekolah tinggi terpadu nurul fikri(STTNF) dari program studi teknik informatika dan saya masih duduk di semester 1</p>
+
+    </table>
+
+        <div style="background-color:aqua;">
+            <h2>biodata pendidikan</h2>
+            <ol>
+                <li>SDN 101210 Tanjung malipe padang bolak</li>
+                <li>pondok pesantren darussalam kampung banjir</li>
+                <li>SMK Swasta kampus padangsidimpuan</li>
+                <li>Sekolah tinggi terpadu nurul fikri (STTNF)</li>
+            </ol>
+            <h2>persentsi kepahaman</h2>
+            <table border="1">
+                <tr>
+                    <th>microsoft word</th>
+                    <th>70%</th>
+                </tr>
+                <tr>
+                    <th>microsof excel</th>
+                    <th>60%</th>
+                </tr>
+                <tr>
+                    <th>microsoft power point</th>
+                    <th>65%</th>
+                 </tr>
+                
+            </table>
+    </body>
+</HTML>
